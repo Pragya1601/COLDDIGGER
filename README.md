@@ -1,4 +1,2 @@
-
-# COLDDIGGER
-Currently It is on this github
-https://github.com/harsheenkohli/ColdDigger2.0
+# ColdDigger2.0
+pragya 
